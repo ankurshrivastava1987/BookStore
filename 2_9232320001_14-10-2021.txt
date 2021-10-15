@@ -1,0 +1,3 @@
+StoreID : 2
+ISBN : 9232320001
+ContactEmail : email1@gmail.com
